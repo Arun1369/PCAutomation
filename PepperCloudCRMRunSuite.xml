@@ -1,0 +1,21 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="RegressionSutie">
+   <test name="PepperCloudCRM-Lead" preserve-order="true">
+      <classes>
+      <class name="BasePackage.BaseClass" />
+        <!-- <class name="Testcases.ProfileTest" />   --> 
+           <class name="Testcases.ProfileTest" />
+          <class name="Testcases.AccountsTest" /> 
+           <class name="Testcases.OpportunityTest" /> 
+           <class name="Testcases.LeadTestSuite" /> 
+
+       <!--  <class name="Test.LeadTest, LeadTestSuite,ContactsTest,TaskTest,AccountsTest,OpportunityTest,ProfileTest" /> 
+ -->   
+ <!-- <class name="Testcases.ContactsTest" /> -->
+ <!-- <class name="Testcases.AccountsTest" /> -->
+ <!-- <class name="Testcases.OpportunityTest" /> -->
+   </classes>
+   
+   </test> 
+</suite>
+

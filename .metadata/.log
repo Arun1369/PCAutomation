@@ -1,0 +1,13 @@
+!SESSION 2018-09-07 15:29:46.038 -----------------------------------------------
+eclipse.buildId=4.5.2.M20160212-1500
+java.version=1.8.0_92
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product -data D:\PepperCloud Automation\PCAutomationScript -product org.eclipse.epp.package.java.product
+
+!ENTRY com.android.ide.eclipse.ddms 4 0 2018-09-07 15:30:04.012
+!MESSAGE DDMS files not found: C:\Users\nichiuser\AppData\Local\Android\sdk\tools\traceview.bat 
+
+!ENTRY com.android.ide.eclipse.ddms 4 0 2018-09-07 15:30:04.055
+!MESSAGE DDMS files not found: C:\Users\nichiuser\AppData\Local\Android\sdk\tools\traceview.bat 

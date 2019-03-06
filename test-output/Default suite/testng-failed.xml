@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="Testcases.ContactsTest">
+        <methods>
+          <include name="inlineEditInLeadTable"/>
+          <include name="tabsOutvalidationInValidaEmailContacts"/>
+          <include name="addnoteCommonValidationDetails"/>
+          <include name="createPageView"/>
+          <include name="verifyNoteIndetails"/>
+          <include name="editCustomViewContacts"/>
+          <include name="inlineEditCommonTextieldValidation"/>
+          <include name="addtaskInDetails"/>
+          <include name="verifyAlertWithOutEntering"/>
+          <include name="addnotetabsOutvalidationInDetail"/>
+          <include name="contactsTabsandCommonValidationOutvalidation"/>
+          <include name="verifyDefaultViewContacts"/>
+          <include name="addLogValidationsListingContacts"/>
+          <include name="addLogValidationsDetails"/>
+          <include name="noteSubjectCommonValidation"/>
+          <include name="statevalidationWithOutCountry"/>
+          <include name="verifyRedirectionToDetailsPage"/>
+          <include name="lastNameFieldvaldidationContact"/>
+          <include name="officeNumberFieldvalidation"/>
+          <include name="addNoteListing"/>
+          <include name="addEventInDetails"/>
+          <include name="inlineEditCommovalidationForAlphanumeric"/>
+          <include name="verifyEventInDetails"/>
+          <include name="eventCommonvalidationInDetails"/>
+          <include name="verifyCreatedPageViewContacts"/>
+          <include name="emailInlineEditTabsOutalidationContacts"/>
+          <include name="mobileNumberFieldValdiation"/>
+          <include name="commonValidationEmailIDContacts"/>
+          <include name="verifyCustomViewInSavedPageViewsContacts"/>
+          <include name="addAttachmentInDetails"/>
+          <include name="addNoteInDetails"/>
+          <include name="refresh"/>
+          <include name="designationFieldvalidationContact"/>
+          <include name="addAttchemntvalidation"/>
+          <include name="eventtabsOutvaldiationDetails"/>
+          <include name="EventSubjectCommonValidation"/>
+          <include name="addLogcallListing"/>
+          <include name="EventLocationCommonValidation"/>
+          <include name="inlineTabsNumericalNumbervalidation"/>
+          <include name="addNotevalidationListingContacts"/>
+          <include name="logSubjectTabOutValidationDetails"/>
+          <include name="testMethod"/>
+          <include name="addNoteErroWithOutchar"/>
+          <include name="eventCommonvalidationDetails"/>
+          <include name="validationCreatePageViewContacts"/>
+          <include name="commonvalidationEventContacts"/>
+          <include name="thinkTime"/>
+          <include name="tabsOutvalidationEventContacts"/>
+          <include name="EventSubjecttabsOutValidation"/>
+          <include name="alreadyExistpageViewNameContacts"/>
+          <include name="departmentFiedlvalidationError"/>
+          <include name="eventtabsOutvalidationInDetails"/>
+          <include name="changeAssignee"/>
+          <include name="verifyFilter"/>
+          <include name="verifyHeaderForDetails"/>
+          <include name="addAttachement"/>
+          <include name="addContacts"/>
+          <include name="noteSubjecttabsOutValidation"/>
+          <include name="postCodeFieldValidation"/>
+          <include name="deleteLeadFromDetailsPage"/>
+          <include name="latestContactPosition"/>
+          <include name="logSubjecttabsOutValidation"/>
+          <include name="checkHeaderAfterInlineEdit"/>
+          <include name="emailInlneEditCommonValidationContacts"/>
+          <include name="changeOwnerforAllLeads"/>
+          <include name="logSubjectCommonValidation"/>
+          <include name="EventLocationtabsOutValidation"/>
+          <include name="addlogErroWithOutcharLog"/>
+          <include name="addLogErrorWhileClosing"/>
+          <include name="inlineCommonNumericalNumbervaldation"/>
+          <include name="inlineEditTabOutTextFieldvalidation"/>
+          <include name="addNoteErrorWhileClosingNote"/>
+          <include name="saveAndNew"/>
+          <include name="addEvent"/>
+          <include name="verifyContactsInListngPage"/>
+          <include name="deleteLeadInListingPage"/>
+          <include name="inlineEditTabsOutValidationForAlphenumeric"/>
+          <include name="pageViewAfterEditContacts"/>
+          <include name="verifySearchInContact"/>
+          <include name="addLogcallDetails"/>
+          <include name="logSubjectCommonvalidationDetails"/>
+          <include name="verifyAlertwhileClosing"/>
+          <include name="addNoteForAll"/>
+          <include name="pageViewInSavedPageAfterEditContacts"/>
+          <include name="verifyLogcallInDetailsPage"/>
+          <include name="addNotevalidationInDetails"/>
+          <include name="verifytaskInDetails"/>
+          <include name="deletePageViewContacts"/>
+          <include name="editFromDetailsPage"/>
+          <include name="firstNamefieldvalidationInContacts"/>
+          <include name="inlinedEditDetailsPage"/>
+        </methods>
+      </class> <!-- Testcases.ContactsTest -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
